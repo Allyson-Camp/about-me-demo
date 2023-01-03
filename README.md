@@ -1,8 +1,24 @@
-## The Golden Rule:
+<!-- ![wireframe about Arrow app](./assets/Bow%20wireframe.png) insert pic of to wireframe after assets/) -->
+<!DOCTYPE html>
+<main>
+<body>
+<h1>Bow's World</h1>
 
-🦸 🦸‍♂️ `Stop starting and start finishing.` 🏁
+<img src="(./assets/Bow%20wireframe.png)" id="photo" alt="Photo of Bow being a model" width="250" height="500">
 
-If you work on more than one feature at a time, you are guaranteed to multiply your bugs and your anxiety.
+<h2>About Bow</h2>
+
+<p>Bow is the most perfect speciment to ever be birthed. This is why:</p>
+
+<>
+
+</body>
+</main>
+<!-- ## The Golden Rule:
+
+<!-- 🦸 🦸‍♂️ `Stop starting and start finishing.` 🏁 -->
+
+<!-- If you work on more than one feature at a time, you are guaranteed to multiply your bugs and your anxiety.
 
 ## Making a plan
 
@@ -25,3 +41,4 @@ Additional considerations:
     -   What needs to live in a persistence layer?
 -   Is there some state we need to initialize?
 -   Ask: should any of this work be abstracted into functions? (i.e., is the work complicated? can it be reused?)
+-->
